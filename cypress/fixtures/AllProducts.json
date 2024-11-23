@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Brocolli - 1 Kg",
+    "price": "120",
+    "index": 0
+  },
+  {
+    "name": "Cauliflower - 1 Kg",
+    "price": "60",
+    "index": 1
+  },
+  {
+    "name": "Cucumber - 1 Kg",
+    "price": "48",
+    "index": 2
+  },
+  {
+    "name": "Beetroot - 1 Kg",
+    "price": "32",
+    "index": 3
+  },
+  {
+    "name": "Carrot - 1 Kg",
+    "price": "56",
+    "index": 4
+  },
+  {
+    "name": "Tomato - 1 Kg",
+    "price": "16",
+    "index": 5
+  },
+  {
+    "name": "Beans - 1 Kg",
+    "price": "82",
+    "index": 6
+  },
+  {
+    "name": "Brinjal - 1 Kg",
+    "price": "35",
+    "index": 7
+  },
+  {
+    "name": "Capsicum",
+    "price": "60",
+    "index": 8
+  },
+  {
+    "name": "Mushroom - 1 Kg",
+    "price": "75",
+    "index": 9
+  },
+  {
+    "name": "Potato - 1 Kg",
+    "price": "22",
+    "index": 10
+  },
+  {
+    "name": "Pumpkin - 1 Kg",
+    "price": "48",
+    "index": 11
+  },
+  {
+    "name": "Corn - 1 Kg",
+    "price": "75",
+    "index": 12
+  },
+  {
+    "name": "Onion - 1 Kg",
+    "price": "16",
+    "index": 13
+  },
+  {
+    "name": "Apple - 1 Kg",
+    "price": "72",
+    "index": 14
+  },
+  {
+    "name": "Banana - 1 Kg",
+    "price": "45",
+    "index": 15
+  },
+  {
+    "name": "Grapes - 1 Kg",
+    "price": "60",
+    "index": 16
+  },
+  {
+    "name": "Mango - 1 Kg",
+    "price": "75",
+    "index": 17
+  },
+  {
+    "name": "Musk Melon - 1 Kg",
+    "price": "36",
+    "index": 18
+  },
+  {
+    "name": "Orange - 1 Kg",
+    "price": "75",
+    "index": 19
+  },
+  {
+    "name": "Pears - 1 Kg",
+    "price": "69",
+    "index": 20
+  },
+  {
+    "name": "Pomegranate - 1 Kg",
+    "price": "95",
+    "index": 21
+  },
+  {
+    "name": "Raspberry - 1/4 Kg",
+    "price": "160",
+    "index": 22
+  },
+  {
+    "name": "Strawberry - 1/4 Kg",
+    "price": "180",
+    "index": 23
+  },
+  {
+    "name": "Water Melon - 1 Kg",
+    "price": "28",
+    "index": 24
+  },
+  {
+    "name": "Almonds - 1/4 Kg",
+    "price": "200",
+    "index": 25
+  },
+  {
+    "name": "Pista - 1/4 Kg",
+    "price": "190",
+    "index": 26
+  },
+  {
+    "name": "Nuts Mixture - 1 Kg",
+    "price": "950",
+    "index": 27
+  },
+  {
+    "name": "Cashews - 1 Kg",
+    "price": "650",
+    "index": 28
+  },
+  {
+    "name": "Walnuts - 1/4 Kg",
+    "price": "170",
+    "index": 29
+  }
+]
