@@ -104,7 +104,7 @@ describe('Registration Form', () => {
     cy.get('input[type="submit"]')
       .should('exist')
       .should('be.enabled')  
-      .dblclick(); 
+      .dblclick(); //не нашел функцию на котором можно использовать этот метод
 
 
       cy.contains(' The Form has been submitted successfully!.').should('be.visible');
